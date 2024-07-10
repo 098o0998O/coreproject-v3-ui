@@ -26,15 +26,15 @@
 Ah, sanırım sitemizi yeni keşfettiniz, hoş geldiniz! "Animecore"a tıklarsan giriş yapabilirsiniz.
         </p>
         <div class="flex items-center md:gap-[0.5vw] gap-3">
-            <span class="md:text-[1.25vw] font-semibold text-warning-400">Try (alpha v3 Ui) :</span>
+            <span class="md:text-[1.25vw] font-semibold text-warning-400">AnimeCore :</span>
             <a href="/anime" class="md:border-b-[0.2vw] border-b-4 border-primary-500"><AnimeCore class="w-36 md:w-[10vw]" /></a>
         </div>
-        <a class="w-max flex items-center gap-2" href="https://github.com/coreproject-moe/CoreProject-Monorepo" target="_blank">
+        <a class="w-max flex items-center gap-2" href="https://www.instagram.com/animecore.app?igsh=MWhoM3h2OXR2amFraA==" target="_blank">
             <Github class="md:size-[2vw] size-10" />
             <span class="md:hidden font-semibold">coreproject-moe/CoreProject-Monorepo</span>
         </a>
     </div>
     <div class="grid place-items-center">
-        <img src="stickers/Keqing_2.png" class="md:w-1/2 w-56 shrink-0" />
+        <img src="https://hizliresim.com/klbvoly" class="md:w-1/2 w-56 shrink-0" />
     </div>
 </div>
