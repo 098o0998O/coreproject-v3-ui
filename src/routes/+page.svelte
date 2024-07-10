@@ -22,7 +22,8 @@
     <div class="flex flex-col justify-center md:pl-[15vw] gap-5 md:gap-[1.5vw] p-5">
         <img src="favicon.svg" class="size-20 md:size-[3vw]" />
         <p class="md:text-[1.25vw] text-lg leading-snug font-semibold text-surface-50 md:leading-[1.75vw]">
-            Out with the old, in with the new! We've upgraded our working repo, so pardon our dust as we refresh our live site with the latest and greatest. Stay tuned for an enhanced experience!
+          Ah, I guess you just discovered our site, welcome! If you click "Animecore" you can log in.
+Ah, sanırım sitemizi yeni keşfettiniz, hoş geldiniz! "Animecore"a tıklarsan giriş yapabilirsiniz.
         </p>
         <div class="flex items-center md:gap-[0.5vw] gap-3">
             <span class="md:text-[1.25vw] font-semibold text-warning-400">Try (alpha v3 Ui) :</span>
