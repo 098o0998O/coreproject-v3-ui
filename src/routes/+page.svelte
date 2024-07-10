@@ -35,6 +35,6 @@ Ah, sanırım sitemizi yeni keşfettiniz, hoş geldiniz! "Animecore"a tıklarsan
         </a>
     </div>
     <div class="grid place-items-center">
-        <img src="https://hizliresim.com/klbvoly" class="md:w-1/2 w-56 shrink-0" />
+        <img src="stickers/Keqing_2.png" class="md:w-1/2 w-56 shrink-0" />
     </div>
 </div>
