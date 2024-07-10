@@ -31,7 +31,7 @@ Ah, sanırım sitemizi yeni keşfettiniz, hoş geldiniz! "Animecore"a tıklarsan
         </div>
         <a class="w-max flex items-center gap-2" href="https://www.instagram.com/animecore.app?igsh=MWhoM3h2OXR2amFraA==" target="_blank">
             <Github class="md:size-[2vw] size-10" />
-            <span class="md:hidden font-semibold">coreproject-moe/CoreProject-Monorepo</span>
+            <span class="md:hidden font-semibold">Aninecore İnstgram</span>
         </a>
     </div>
     <div class="grid place-items-center">
